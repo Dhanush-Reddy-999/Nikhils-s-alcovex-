@@ -1,0 +1,139 @@
+.card {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 35px 100px 100px 30px;
+    border: none;
+    background-color: #f6f5f5;
+}
+
+.container {
+    margin: 0px 69px;
+    padding: 22.5px 12px 0px;
+}
+
+.heading1 {
+    color: #1687a7;
+    font-family: 'Poppins',sans-serif;
+    font-size: 68px;
+}
+
+.heading2 {
+    color: #276678;
+    font-family: 'Poppins',sans-serif;
+    font-size: 26px;
+    margin: 16px 0px;
+}
+
+.heading3 {
+    color: #276678;
+    font-family: 'Poppins',sans-serif;
+    font-size: 26px;
+    margin: 16px 0px;
+    text-align: right;
+}
+
+.para1 {
+    color: #276678;
+    font-family: 'Poppins', sans-serif;
+    font-size: 19px;
+    margin: 16px 0px;
+}
+
+.para2 {
+    color: #276678;
+    font-family: 'Poppins', sans-serif;
+    font-size: 19px;
+    margin: 16px 0px;
+    text-align: right;
+}
+
+a.fill {
+    color: white;
+    background-color: #1687a7;
+    border-color: #1687a7;
+    padding: 7px 16px 11px 16px;
+    border: 2px solid #1687a7;
+    border-radius: 5px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a.fill:hover {
+    color: #1687a7;
+    background-color: white;
+    text-decoration: none;
+}
+
+
+
+a.icon {
+    background-color: white;
+    color: #1687a7;
+    border-color: #1687a7;
+    padding: 7px 16px 11px 16px;
+    border: 2px solid #1687a7;
+    border-radius: 5px;
+    margin-left: 4px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a.icon:hover {
+    background-color: #1687a7;
+    color: white;
+    text-decoration: none;
+}
+
+a {
+    background-color: white;
+    color: #1687a7;
+    border-color: #1687a7;
+    padding: 7px 16px 11px 16px;
+    border: 2px solid #1687a7;
+    border-radius: 5px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #1687a7;
+    color: white;
+    text-decoration: none;
+}
+
+ a.right{
+    background-color: white;
+    color: #1687a7;
+    border-color: #1687a7;
+    padding: 7px 16px 11px 16px;
+    margin-left: 4px;
+    border: 2px solid #1687a7;
+    border-radius: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    float: right;
+}
+
+ a.right:hover{
+    background-color: #1687a7;
+    color: white;
+    text-decoration: none;
+    float: right;
+}
+
+#logo {
+    margin: 0px 0px 0px 77.9984px;
+    padding: 80px 48px 48px 48px;
+    height: 50vh;
+}
+
+.border {
+    margin-left: 110px;
+    margin-right: 150px;
+    border: 5px #1687a7;
+}
+
+.image1 {
+    height: 50vh;
+}

@@ -1,0 +1,46 @@
+
+
+#navBar{
+    padding: 4vh;
+    border: 1px;
+}
+
+a.foot {
+    background-color: white;
+    color: #1687a7;
+    float: right;
+    border-color: #1687a7;
+    padding: 1vh 1.5vh 1vh 1.5vh;
+    border: 2px solid #1687a7;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a.foot:hover {
+    background-color: #1687a7;
+    color: white;
+    text-decoration: none;
+}
+
+.button1 {
+    background-color: white;
+    color: #1687a7;
+    font-size: 20px;
+    border: 2px solid #1687a7;
+    border-radius: 5px;
+}
+
+.button1:hover {
+    color: white;
+    background-color: #1687a7;
+}
+
+
+#logo{
+    height: 40px;
+}
+
+.footer {
+    padding: 3vh;
+}
